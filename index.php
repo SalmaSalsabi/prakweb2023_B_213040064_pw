@@ -1,7 +1,7 @@
 <?php
 
 require 'functions.php';
-$conn = mysqli_connect('localhost', 'root', '', 'prakweb2023b_213040064');
+$conn = mysqli_connect('localhost', 'root', '', 'prakweb_2023_B_213040064');
 //session_start ();
 
 // if( !isset($_SESSION["login"]) ) {
